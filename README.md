@@ -1,6 +1,6 @@
-# Hey there!👋 My name is Haster Sun.
+# Hey there!👋 My name is Riconas Sun.
 ## About Me
-I'm a 16-year-old student.
+I'm a 17-year-old student.
 I enjoy coding, and I use VSCode as my primary coding tool.
 I find the ocean calming and enjoy exploring it.
 ## Interests
