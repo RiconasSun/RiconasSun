@@ -8,7 +8,6 @@ Coding
 Exploring the ocean
 ## Contact Me
 Email: hastersun@zohomail.com
-Twitter:https://twitter.com/hastersun7
 <br>
 ## GitHub Stats
 <br>
